@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.sharmavaibhav0103.learnreactnative"
     },
     "web": {
       "favicon": "./assets/favicon.png"
